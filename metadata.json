@@ -1,0 +1,6 @@
+{
+  "name": "Pipeline & Android Calendar Sync Hub",
+  "description": "Unified pipeline management system synchronized with an Android calendar schedule and reminder companion app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
